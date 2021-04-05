@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="./assets/MealApp.gif" width="40" height="40" />
+<img src="./assets/MealApp.gif" width="331px" height="568px" />
 
 ## Getting Started
 
